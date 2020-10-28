@@ -31,24 +31,22 @@ AVDNet: A Small-Sized Vehicle Detection Network for Aerial Visual Data </a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(17).pdf" style="text-decoration:none;">Learning Object-Wise Semantic Representation for Detection in Remote Sensing Imagery</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(18).pdf" style="text-decoration:none;">A Crash Course in x86 Assembly for Reverse Engineers</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(18).pdf" style="text-decoration:none;">Learning RoI Transformer for Oriented Object Detection in Aerial Images</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(19).pdf" style="text-decoration:none;">A Detailed Analysis of the Component Object Model</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(19).pdf" style="text-decoration:none;">iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(20).PDF" style="text-decoration:none;">A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(20).pdf" style="text-decoration:none;">A Survey on Object Detection in Optical Remote Sensing Images</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(21).pdf" style="text-decoration:none;">A Family of Perfect Hashing Methods</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(22).pdf" style="text-decoration:none;">A Fast x86 Implementation of Select</a></li> 
- <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(23).pdf" style="text-decoration:none;">A Fast, Minimal Memory, Consistent Hash Algorithm</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(21).pdf" style="text-decoration:none;">The Aerial Elephant Dataset: A New Public Benchmark for Aerial Object Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(22).pdf" style="text-decoration:none;">How to Fully Exploit The Abilities of Aerial Image Detectors</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(23).pdf" style="text-decoration:none;">Vehicle and Vessel Detection on Satellite Imagery: A Comparative Study on Single-Shot Detectors</a></li> 
  
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(24).pdf" style="text-decoration:none;">A Faster Cutting Plane Method and its Implications for Combinatorial and Convex Optimization</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(24).pdf" style="text-decoration:none;">Deep Learning in Remote Sensing: A Review</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(25).pdf" style="text-decoration:none;">A Few Billion
-Lines of Code Later: Using Static Analysis to Find Bugs in the Real World</a></li>                              
- <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(26).pdf" style="text-decoration:none;">A few experiments with the
-Cache Allocation Technology</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(25).pdf" style="text-decoration:none;">SkyScapes – Fine-Grained Semantic Understanding of Aerial Scenes</a></li>                              
+ <li><a target="_blank" href="https://github.com/manjunath5496/Aerial-object-detection-papers/blob/master/aer(26).pdf" style="text-decoration:none;">MOR-UAV: A Benchmark Dataset and Baselines for Moving Object Recognition in UAV Videos</a></li>
  </ul>
   
   
